@@ -1,2 +1,7 @@
 # CS544-Sp2024
-My personal repo containing my assignments from CS544 Introduction to Big Data Systems
+## UW Madison CS544 Introduction to Big Data Systems in Spring 2024
+Instructor: Dr. Meenakshi Syamkumar
+
+## Project 1
+
+Deployed a virtual machine through Google Cloud and installed Docker into Ubuntu Linux. Wrote a shell script to automate bash commands and bundled it within a Docker container/image.
